@@ -1,0 +1,29 @@
+ if (initial[i] <= 9 )
+    {
+        cout << "   ";
+    }
+    if (initial[i] >= 9)
+    {
+        cout << "  ";
+    }
+  // cin >> initial[i];
+  //  cout << initial[i];
+   
+    if(i == 4)
+    {
+        cout << endl;
+        cout <<
+    }
+    if (i == 9)
+    {
+        cout << endl;
+        cout << "   ";
+    }
+    if (i == 14)
+    {
+         cout << endl;
+    }
+     if (i == 19)
+    {
+         cout << endl;
+    }
